@@ -9,7 +9,9 @@ If your game launches to a black screen, try deleting (or moving if you want to 
 C:/users/yourusername/Documents/My games/
 
 also, to skip the startup videos (which take forever!) and fix some console problems, create a shortcut of crysis.exe and add this 
-to the path: +con_restricted 0 +g_skipIntro 1 >> newbs: right click, properties, shortcut tab, paste it after the quote.
+to the path: +con_restricted 0 +g_skipIntro 1 
+
+>> newbs: right click, properties, shortcut tab, paste it after the quote.
 
 
 
